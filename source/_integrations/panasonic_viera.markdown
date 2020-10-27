@@ -124,5 +124,6 @@ script:
 - TX-55FX680W
 - TX-55FZ802B
 - TX-55ASM655
+- TX-LF37E30 
 
 If your model is not on the list, give it a test. If everything works correctly, then add it to the list on [GitHub](https://github.com/home-assistant/home-assistant.io/blob/current/source/_integrations/panasonic_viera.markdown).
